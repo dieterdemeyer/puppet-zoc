@@ -6,6 +6,6 @@
 class zoc {
   package { 'ZOC':
     provider => 'appdmg',
-    source   => 'http://www.emtec.com/downloads/zoc/zoc647.dmg',
+    source   => 'https://yum.cegeka.be/osx_packages/Zoc-6.47.dmg',
   }
 }
